@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "id": "22056",
+    "title": "Coles Catalogue September 20 - 26, 2024 Best Buys - Home Entertainment",
+    "slug": "coles-catalogue-september-20-26-2024-best-buys-home-entertainment",
+    "start_date": "1726804801",
+    "end_date": "1727409599",
+    "page_count": "7",
+    "description": "Dive into discounts in the Coles Catalogue starting September 20 - 26, 2024! It's time to save big.",
+    "store_name": "Coles",
+    "store_title": "Coles Catalogue",
+    "store_slug": "coles"
+  },
+  "run": {
+    "pages_spec": "all",
+    "validation_version": 4
+  },
+  "extracted_at": "2026-09-13T08:06:54.647600+00:00",
+  "product_count": 1,
+  "products": [
+    {
+      "retailer": "Coles",
+      "region": "",
+      "catalogue_title": "Coles Catalogue September 20 - 26, 2024 Best Buys - Home Entertainment",
+      "catalogue_start_date": "2024-09-20",
+      "catalogue_end_date": "2024-09-27",
+      "page_number": 2,
+      "product_name": "2400W, 4x 10A power outlets, over current and over heat protection. Remotes not included",
+      "special_price": 3.0,
+      "regular_price": null,
+      "save_amount": null,
+      "discount_percent": null,
+      "promo_type": "special",
+      "pack_size": "",
+      "unit_price_text": "",
+      "offer_text": "2400W, 4x 10A power outlets, over current and over heat protection. | Remotes not included | ©",
+      "ocr_confidence": 94.99,
+      "needs_review": true,
+      "review_reason": "offer_labels_missing;save_amount_missing;regular_price_missing;single_price_evidence",
+      "source_page_image": "https://caau.syd1.cdn.digitaloceanspaces.com/wp-content/uploads/catalogue/coles/coles-catalogue-september-20-26-2024-best-buys-home-entertainment/2.jpg",
+      "source_catalogue_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-september-20-26-2024-best-buys-home-entertainment/",
+      "price_source": "displayed_price",
+      "price_evidence": "displayed_price",
+      "evidence_count": 1,
+      "verification_status": "review"
+    }
+  ]
+}

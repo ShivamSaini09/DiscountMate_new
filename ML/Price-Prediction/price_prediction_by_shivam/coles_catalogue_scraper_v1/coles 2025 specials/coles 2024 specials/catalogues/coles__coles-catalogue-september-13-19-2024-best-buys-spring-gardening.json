@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "id": "22021",
+    "title": "Coles Catalogue September 13 - 19, 2024 Best Buys - Spring Gardening",
+    "slug": "coles-catalogue-september-13-19-2024-best-buys-spring-gardening",
+    "start_date": "1726200001",
+    "end_date": "1726804799",
+    "page_count": "6",
+    "description": "Get more for less with the Coles Catalogue beginning September 13, 2024! Top deals to make your budget go further.",
+    "store_name": "Coles",
+    "store_title": "Coles Catalogue",
+    "store_slug": "coles"
+  },
+  "run": {
+    "pages_spec": "all",
+    "validation_version": 4
+  },
+  "extracted_at": "2026-09-13T08:20:19.896108+00:00",
+  "product_count": 0,
+  "products": []
+}

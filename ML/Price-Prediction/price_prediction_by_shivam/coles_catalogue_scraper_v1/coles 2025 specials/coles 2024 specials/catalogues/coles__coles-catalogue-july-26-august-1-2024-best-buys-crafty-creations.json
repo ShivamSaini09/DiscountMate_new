@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "id": "21855",
+    "title": "Coles Catalogue July 26 - August 1, 2024 Best Buys - Crafty Creations",
+    "slug": "coles-catalogue-july-26-august-1-2024-best-buys-crafty-creations",
+    "start_date": "1721966401",
+    "end_date": "1722571199",
+    "page_count": "7",
+    "description": "Catch the latest deals in the Coles Catalogue starting July 26 - August 1, 2024! Great prices on the products you love.",
+    "store_name": "Coles",
+    "store_title": "Coles Catalogue",
+    "store_slug": "coles"
+  },
+  "run": {
+    "pages_spec": "all",
+    "validation_version": 4
+  },
+  "extracted_at": "2026-09-13T08:54:37.551549+00:00",
+  "product_count": 1,
+  "products": [
+    {
+      "retailer": "Coles",
+      "region": "",
+      "catalogue_title": "Coles Catalogue July 26 - August 1, 2024 Best Buys - Crafty Creations",
+      "catalogue_start_date": "2024-07-26",
+      "catalogue_end_date": "2024-08-02",
+      "page_number": 4,
+      "product_name": "Curious Universe Crystal Growing Kit Mix and grow sparkling crystals in 6x magical",
+      "special_price": 1.0,
+      "regular_price": null,
+      "save_amount": null,
+      "discount_percent": null,
+      "promo_type": "special",
+      "pack_size": "",
+      "unit_price_text": "",
+      "offer_text": "$1299 | Curious Universe Crystal Growing Kit | Mix and grow sparkling crystals in 6x magical | colours. Includes display cases, granite rocks and",
+      "ocr_confidence": 95.69,
+      "needs_review": true,
+      "review_reason": "offer_labels_missing;save_amount_missing;regular_price_missing;single_price_evidence",
+      "source_page_image": "https://caau.syd1.cdn.digitaloceanspaces.com/wp-content/uploads/catalogue/coles/coles-catalogue-july-26-august-1-2024-best-buys-crafty-creations/4.jpg",
+      "source_catalogue_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-july-26-august-1-2024-best-buys-crafty-creations/",
+      "price_source": "displayed_price",
+      "price_evidence": "displayed_price",
+      "evidence_count": 1,
+      "verification_status": "review"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "validation_version": 4,
+  "total_rows": 28332,
+  "trusted_rows": 11934,
+  "status_counts": {
+    "review": 16398,
+    "verified": 11934
+  },
+  "review_reason_counts": {
+    "single_price_evidence": 12925,
+    "offer_labels_missing": 4773,
+    "regular_price_missing": 4453,
+    "save_amount_missing": 4453,
+    "low_name_confidence_strict": 3310,
+    "inferred_price_requires_review": 2602,
+    "unit_price_conflict": 462,
+    "low_ocr_confidence": 193,
+    "regular_and_save_inferred_from_half_price": 182,
+    "product_name_suspicious": 74,
+    "product_name_uncertain": 17
+  }
+}

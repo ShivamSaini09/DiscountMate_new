@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "id": "22135",
+    "title": "Coles Catalogue October 4 - 10, 2024 Best Buys - Style Your Space",
+    "slug": "coles-catalogue-october-4-10-2024-best-buys-style-your-space",
+    "start_date": "1728014401",
+    "end_date": "1728619199",
+    "page_count": "6",
+    "description": "Reap the benefits of the Coles Catalogue from October 4, 2024! Deals to enhance your shopping experience.",
+    "store_name": "Coles",
+    "store_title": "Coles Catalogue",
+    "store_slug": "coles"
+  },
+  "run": {
+    "pages_spec": "all",
+    "validation_version": 4
+  },
+  "extracted_at": "2026-09-13T07:40:08.828259+00:00",
+  "product_count": 1,
+  "products": [
+    {
+      "retailer": "Coles",
+      "region": "",
+      "catalogue_title": "Coles Catalogue October 4 - 10, 2024 Best Buys - Style Your Space",
+      "catalogue_start_date": "2024-10-04",
+      "catalogue_end_date": "2024-10-11",
+      "page_number": 6,
+      "product_name": "Remote not",
+      "special_price": 2.0,
+      "regular_price": null,
+      "save_amount": null,
+      "discount_percent": null,
+      "promo_type": "special",
+      "pack_size": "",
+      "unit_price_text": "",
+      "offer_text": "ay | Remote not",
+      "ocr_confidence": 96.81,
+      "needs_review": true,
+      "review_reason": "offer_labels_missing;save_amount_missing;regular_price_missing;single_price_evidence",
+      "source_page_image": "https://caau.syd1.cdn.digitaloceanspaces.com/wp-content/uploads/catalogue/coles/coles-catalogue-october-4-10-2024-best-buys-style-your-space/6.jpg",
+      "source_catalogue_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-october-4-10-2024-best-buys-style-your-space/",
+      "price_source": "displayed_price",
+      "price_evidence": "displayed_price",
+      "evidence_count": 1,
+      "verification_status": "review"
+    }
+  ]
+}

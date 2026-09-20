@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "id": "21810",
+    "title": "Coles Catalogue July 12 - 18, 2024 Best Buys - Entertainment Ready",
+    "slug": "coles-catalogue-july-12-18-2024-best-buys-entertainment-ready",
+    "start_date": "1720756801",
+    "end_date": "1721361599",
+    "page_count": "7",
+    "description": "Dive into the Coles Catalogue for exceptional deals starting July 12, 2024! Save more on your shopping this week.",
+    "store_name": "Coles",
+    "store_title": "Coles Catalogue",
+    "store_slug": "coles"
+  },
+  "run": {
+    "pages_spec": "all",
+    "validation_version": 4
+  },
+  "extracted_at": "2026-09-13T09:01:33.666000+00:00",
+  "product_count": 0,
+  "products": []
+}

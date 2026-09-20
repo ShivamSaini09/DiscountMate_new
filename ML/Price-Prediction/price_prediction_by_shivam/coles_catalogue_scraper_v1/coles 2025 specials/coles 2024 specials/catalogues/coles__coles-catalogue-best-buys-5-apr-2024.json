@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "id": "21364",
+    "title": "Coles Catalogue Best Buys 5 - 11 Apr 2024",
+    "slug": "coles-catalogue-best-buys-5-apr-2024",
+    "start_date": "1712275200",
+    "end_date": "1712879999",
+    "page_count": "8",
+    "description": "Wellness products, health care, headbands, ice face roller, and more products in Coles Catalogue Best Buys 5 - 11 Apr 2024.",
+    "store_name": "Coles",
+    "store_title": "Coles Catalogue",
+    "store_slug": "coles"
+  },
+  "run": {
+    "pages_spec": "all",
+    "validation_version": 4
+  },
+  "extracted_at": "2026-09-13T09:51:13.248190+00:00",
+  "product_count": 1,
+  "products": [
+    {
+      "retailer": "Coles",
+      "region": "",
+      "catalogue_title": "Coles Catalogue Best Buys 5 - 11 Apr 2024",
+      "catalogue_start_date": "2024-04-05",
+      "catalogue_end_date": "2024-04-11",
+      "page_number": 6,
+      "product_name": "Pre-stretched canvas on wooden frame, easy to hang and display",
+      "special_price": 927.0,
+      "regular_price": null,
+      "save_amount": null,
+      "discount_percent": null,
+      "promo_type": "special",
+      "pack_size": "",
+      "unit_price_text": "",
+      "offer_text": "Pre-stretched canvas on wooden frame, | easy to hang and display. | = | ONLINE | | | EXCLUSIVES | | Shop",
+      "ocr_confidence": 90.52,
+      "needs_review": true,
+      "review_reason": "offer_labels_missing;save_amount_missing;regular_price_missing;single_price_evidence",
+      "source_page_image": "https://caau.syd1.cdn.digitaloceanspaces.com/wp-content/uploads/catalogue/coles/coles-catalogue-best-buys-5-apr-2024/6.jpg",
+      "source_catalogue_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-best-buys-5-apr-2024/",
+      "price_source": "displayed_price",
+      "price_evidence": "displayed_price",
+      "evidence_count": 1,
+      "verification_status": "review"
+    }
+  ]
+}

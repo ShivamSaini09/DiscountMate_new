@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "id": "21337",
+    "title": "Coles Catalogue Easter 29 Mar - 4 Apr 2024",
+    "slug": "coles-catalogue-easter-29-mar-2024",
+    "start_date": "1711670400",
+    "end_date": "1712275199",
+    "page_count": "9",
+    "description": "Easter entertaining sale, kitchen appliances, multi-cooker, mugs, and more products in Coles Catalogue Easter 29 Mar - 4 Apr 2024.",
+    "store_name": "Coles",
+    "store_title": "Coles Catalogue",
+    "store_slug": "coles"
+  },
+  "run": {
+    "pages_spec": "all",
+    "validation_version": 4
+  },
+  "extracted_at": "2026-09-13T09:55:02.275112+00:00",
+  "product_count": 1,
+  "products": [
+    {
+      "retailer": "Coles",
+      "region": "",
+      "catalogue_title": "Coles Catalogue Easter 29 Mar - 4 Apr 2024",
+      "catalogue_start_date": "2024-03-29",
+      "catalogue_end_date": "2024-04-04",
+      "page_number": 3,
+      "product_name": "BestBuys",
+      "special_price": 546.0,
+      "regular_price": null,
+      "save_amount": null,
+      "discount_percent": null,
+      "promo_type": "special",
+      "pack_size": "",
+      "unit_price_text": "",
+      "offer_text": "BestBuys",
+      "ocr_confidence": 91.23,
+      "needs_review": true,
+      "review_reason": "offer_labels_missing;save_amount_missing;regular_price_missing;single_price_evidence",
+      "source_page_image": "https://caau.syd1.cdn.digitaloceanspaces.com/wp-content/uploads/catalogue/coles/coles-catalogue-easter-29-mar-2024/3.jpg",
+      "source_catalogue_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-easter-29-mar-2024/",
+      "price_source": "displayed_price",
+      "price_evidence": "displayed_price",
+      "evidence_count": 1,
+      "verification_status": "review"
+    }
+  ]
+}

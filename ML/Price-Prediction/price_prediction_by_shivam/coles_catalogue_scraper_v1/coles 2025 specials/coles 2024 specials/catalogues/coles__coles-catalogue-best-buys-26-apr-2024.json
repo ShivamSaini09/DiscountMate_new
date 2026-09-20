@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "id": "21458",
+    "title": "Coles Catalogue Mother's Day 2024",
+    "slug": "coles-catalogue-best-buys-26-apr-2024",
+    "start_date": "1714089600",
+    "end_date": "1714694399",
+    "page_count": "8",
+    "description": "Coles Catalogue Mother\\'s Day 26 Apr - 2 May 2024 with the new deals on jewellery cabinet, hair straighteners, foot massager, and more.",
+    "store_name": "Coles",
+    "store_title": "Coles Catalogue",
+    "store_slug": "coles"
+  },
+  "run": {
+    "pages_spec": "all",
+    "validation_version": 4
+  },
+  "extracted_at": "2026-09-13T09:40:28.950021+00:00",
+  "product_count": 0,
+  "products": []
+}

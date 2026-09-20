@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "id": "21072",
+    "title": "Coles Catalogue Best Buys 2 - 8 Feb 2024",
+    "slug": "coles-catalogue-best-buys-2-feb-2024",
+    "start_date": "1706832000",
+    "end_date": "1707436799",
+    "page_count": "8",
+    "description": "Check out health care products, memory foam cushions, compression wear, and more products in Coles Catalogue Best Buys 2 - 8 Feb 2024.",
+    "store_name": "Coles",
+    "store_title": "Coles Catalogue",
+    "store_slug": "coles"
+  },
+  "run": {
+    "pages_spec": "all",
+    "validation_version": 4
+  },
+  "extracted_at": "2026-09-13T10:27:23.674990+00:00",
+  "product_count": 0,
+  "products": []
+}

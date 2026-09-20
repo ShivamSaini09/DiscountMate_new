@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "id": "22336",
+    "title": "Coles Catalogue November 8 - 14, 2024 Best Buys - Home Starter",
+    "slug": "coles-catalogue-november-8-14-2024-best-buys-home-starter",
+    "start_date": "1731042001",
+    "end_date": "1731646799",
+    "page_count": "7",
+    "description": "Get ready for amazing discounts with Coles Catalogue starting November 8, 2024! Your chance to stock up and save.",
+    "store_name": "Coles",
+    "store_title": "Coles Catalogue",
+    "store_slug": "coles"
+  },
+  "run": {
+    "pages_spec": "all",
+    "validation_version": 4
+  },
+  "extracted_at": "2026-09-13T06:38:24.563148+00:00",
+  "product_count": 0,
+  "products": []
+}

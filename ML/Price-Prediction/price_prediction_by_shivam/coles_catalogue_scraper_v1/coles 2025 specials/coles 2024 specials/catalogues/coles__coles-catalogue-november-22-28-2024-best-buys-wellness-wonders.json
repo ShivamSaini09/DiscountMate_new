@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "id": "22414",
+    "title": "Coles Catalogue November 22 - 28, 2024 Best Buys - Wellness Wonders",
+    "slug": "coles-catalogue-november-22-28-2024-best-buys-wellness-wonders",
+    "start_date": "1732251601",
+    "end_date": "1732856399",
+    "page_count": "6",
+    "description": "Don't miss the exclusive savings in the Coles Catalogue between November 22 - 28, 2024! Shop and save today.",
+    "store_name": "Coles",
+    "store_title": "Coles Catalogue",
+    "store_slug": "coles"
+  },
+  "run": {
+    "pages_spec": "all",
+    "validation_version": 4
+  },
+  "extracted_at": "2026-09-13T06:03:30.726972+00:00",
+  "product_count": 0,
+  "products": []
+}

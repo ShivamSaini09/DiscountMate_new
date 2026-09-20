@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "id": "21777",
+    "title": "Coles Catalogue July 5 - 11, 2024 Best Buys - Laundry Solutions",
+    "slug": "coles-catalogue-july-5-11-2024-best-buys-laundry-solutions",
+    "start_date": "1720152001",
+    "end_date": "1720756799",
+    "page_count": "9",
+    "description": "Celebrate savings with the Coles Catalogue from July 5, 2024! Don't miss these limited-time offers.",
+    "store_name": "Coles",
+    "store_title": "Coles Catalogue",
+    "store_slug": "coles"
+  },
+  "run": {
+    "pages_spec": "all",
+    "validation_version": 4
+  },
+  "extracted_at": "2026-09-13T09:05:28.863545+00:00",
+  "product_count": 1,
+  "products": [
+    {
+      "retailer": "Coles",
+      "region": "",
+      "catalogue_title": "Coles Catalogue July 5 - 11, 2024 Best Buys - Laundry Solutions",
+      "catalogue_start_date": "2024-07-05",
+      "catalogue_end_date": "2024-07-12",
+      "page_number": 6,
+      "product_name": "SABA Handhled Vacuum and Air Duster Vacuuming and blowing modes. Built-in 6000mAh HEPA H13 filter. Up to 30min of usage",
+      "special_price": 4.0,
+      "regular_price": null,
+      "save_amount": null,
+      "discount_percent": null,
+      "promo_type": "special",
+      "pack_size": "",
+      "unit_price_text": "",
+      "offer_text": "SABA Handhled Vacuum and Air Duster | Vacuuming and blowing modes. Built-in 6000mAh HEPA H13 filter. Up to 30min of usage. | Includes 6x nozzles and brush accessories.",
+      "ocr_confidence": 92.83,
+      "needs_review": true,
+      "review_reason": "offer_labels_missing;save_amount_missing;regular_price_missing;single_price_evidence",
+      "source_page_image": "https://caau.syd1.cdn.digitaloceanspaces.com/wp-content/uploads/catalogue/coles/coles-catalogue-july-5-11-2024-best-buys-laundry-solutions/6.jpg",
+      "source_catalogue_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-july-5-11-2024-best-buys-laundry-solutions/",
+      "price_source": "displayed_price",
+      "price_evidence": "displayed_price",
+      "evidence_count": 1,
+      "verification_status": "review"
+    }
+  ]
+}

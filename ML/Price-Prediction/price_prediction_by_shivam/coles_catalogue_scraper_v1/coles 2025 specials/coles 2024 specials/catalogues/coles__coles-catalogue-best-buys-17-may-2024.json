@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "id": "21551",
+    "title": "Coles Catalogue Best Buys 17 - 23 May 2024",
+    "slug": "coles-catalogue-best-buys-17-may-2024",
+    "start_date": "1715904000",
+    "end_date": "1716508799",
+    "page_count": "9",
+    "description": "Coles Catalogue Best Buys 17 - 23 May 2024 with pet grooming kits, heating pads, pet supplies, feeders, and more.",
+    "store_name": "Coles",
+    "store_title": "Coles Catalogue",
+    "store_slug": "coles"
+  },
+  "run": {
+    "pages_spec": "all",
+    "validation_version": 4
+  },
+  "extracted_at": "2026-09-13T09:29:59.181941+00:00",
+  "product_count": 0,
+  "products": []
+}

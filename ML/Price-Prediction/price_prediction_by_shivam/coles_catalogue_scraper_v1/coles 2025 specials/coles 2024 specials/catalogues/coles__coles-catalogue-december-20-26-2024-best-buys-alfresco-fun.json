@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "id": "22570",
+    "title": "Coles Catalogue December 20 - 26, 2024 Best Buys - Alfresco Fun",
+    "slug": "coles-catalogue-december-20-26-2024-best-buys-alfresco-fun",
+    "start_date": "1734670801",
+    "end_date": "1735275599",
+    "page_count": "8",
+    "description": "Refresh your shopping list with deals from Coles Catalogue starting December 20, 2024! Exclusive offers await.",
+    "store_name": "Coles",
+    "store_title": "Coles Catalogue",
+    "store_slug": "coles"
+  },
+  "run": {
+    "pages_spec": "all",
+    "validation_version": 4
+  },
+  "extracted_at": "2026-09-13T04:47:33.355532+00:00",
+  "product_count": 1,
+  "products": [
+    {
+      "retailer": "Coles",
+      "region": "",
+      "catalogue_title": "Coles Catalogue December 20 - 26, 2024 Best Buys - Alfresco Fun",
+      "catalogue_start_date": "2024-12-20",
+      "catalogue_end_date": "2024-12-27",
+      "page_number": 5,
+      "product_name": "Includes 6x bean bags and carry bag",
+      "special_price": 29.0,
+      "regular_price": null,
+      "save_amount": null,
+      "discount_percent": null,
+      "promo_type": "special",
+      "pack_size": "",
+      "unit_price_text": "",
+      "offer_text": "Includes 6x bean bags and carry bag.",
+      "ocr_confidence": 96.19,
+      "needs_review": true,
+      "review_reason": "offer_labels_missing;save_amount_missing;regular_price_missing;single_price_evidence",
+      "source_page_image": "https://caau.syd1.cdn.digitaloceanspaces.com/wp-content/uploads/catalogue/coles/coles-catalogue-december-20-26-2024-best-buys-alfresco-fun/5.jpg",
+      "source_catalogue_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-december-20-26-2024-best-buys-alfresco-fun/",
+      "price_source": "displayed_price",
+      "price_evidence": "displayed_price",
+      "evidence_count": 1,
+      "verification_status": "review"
+    }
+  ]
+}

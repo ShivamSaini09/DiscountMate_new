@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "id": "21047",
+    "title": "Coles Catalogue Best Buys 26 Jan - 1 Feb 2024",
+    "slug": "coles-catalogue-best-buys-26-jan-2024",
+    "start_date": "1706227200",
+    "end_date": "1706831999",
+    "page_count": "9",
+    "description": "Smart devices like robot vacuum, Germanica 2-in-1 stick vacuum, and more for your home in Coles Catalogue this week.",
+    "store_name": "Coles",
+    "store_title": "Coles Catalogue",
+    "store_slug": "coles"
+  },
+  "run": {
+    "pages_spec": "all",
+    "validation_version": 4
+  },
+  "extracted_at": "2026-09-13T10:31:02.507333+00:00",
+  "product_count": 0,
+  "products": []
+}

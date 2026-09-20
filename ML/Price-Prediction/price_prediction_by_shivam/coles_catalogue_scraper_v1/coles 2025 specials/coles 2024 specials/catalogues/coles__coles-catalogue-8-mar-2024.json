@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "id": "21238",
+    "title": "Coles Catalogue Best Buys 8 - 14 Mar 2024",
+    "slug": "coles-catalogue-8-mar-2024",
+    "start_date": "1709856000",
+    "end_date": "1710460799",
+    "page_count": "8",
+    "description": "See the deals on smart 4K Smart TV, sound bar, selfie ring, gaming bundles, party speakers, and more in Coles Catalogue Best Buys 8 - 14 Mar 2024.",
+    "store_name": "Coles",
+    "store_title": "Coles Catalogue",
+    "store_slug": "coles"
+  },
+  "run": {
+    "pages_spec": "all",
+    "validation_version": 4
+  },
+  "extracted_at": "2026-09-13T10:09:09.314906+00:00",
+  "product_count": 1,
+  "products": [
+    {
+      "retailer": "Coles",
+      "region": "",
+      "catalogue_title": "Coles Catalogue Best Buys 8 - 14 Mar 2024",
+      "catalogue_start_date": "2024-03-08",
+      "catalogue_end_date": "2024-03-14",
+      "page_number": 5,
+      "product_name": "Phone and watch not included",
+      "special_price": 4.0,
+      "regular_price": null,
+      "save_amount": null,
+      "discount_percent": null,
+      "promo_type": "special",
+      "pack_size": "",
+      "unit_price_text": "",
+      "offer_text": "Phone and watch not included",
+      "ocr_confidence": 96.09,
+      "needs_review": true,
+      "review_reason": "offer_labels_missing;save_amount_missing;regular_price_missing;single_price_evidence",
+      "source_page_image": "https://caau.syd1.cdn.digitaloceanspaces.com/wp-content/uploads/catalogue/coles/coles-catalogue-8-mar-2024/5.jpg",
+      "source_catalogue_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-8-mar-2024/",
+      "price_source": "displayed_price",
+      "price_evidence": "displayed_price",
+      "evidence_count": 1,
+      "verification_status": "review"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "id": "21401",
+    "title": "Coles Catalogue Best Buys 12 - 18 Apr 2024",
+    "slug": "coles-catalogue-best-buys-12-apr-2024",
+    "start_date": "1712880000",
+    "end_date": "1713484799",
+    "page_count": "8",
+    "description": "View the new special offers, 3D tiles, vacuum with blower, magnetic bracelet, and more in Coles Catalogue Best Buys 12 - 18 Apr 2024.",
+    "store_name": "Coles",
+    "store_title": "Coles Catalogue",
+    "store_slug": "coles"
+  },
+  "run": {
+    "pages_spec": "all",
+    "validation_version": 4
+  },
+  "extracted_at": "2026-09-13T09:47:26.061552+00:00",
+  "product_count": 1,
+  "products": [
+    {
+      "retailer": "Coles",
+      "region": "",
+      "catalogue_title": "Coles Catalogue Best Buys 12 - 18 Apr 2024",
+      "catalogue_start_date": "2024-04-12",
+      "catalogue_end_date": "2024-04-18",
+      "page_number": 6,
+      "product_name": "Table Tennis Anywhere Suits tables up to Scm thick and up te 170cm wide",
+      "special_price": 99.99,
+      "regular_price": null,
+      "save_amount": null,
+      "discount_percent": null,
+      "promo_type": "special",
+      "pack_size": "",
+      "unit_price_text": "",
+      "offer_text": "Table Tennis Anywhere | Suits tables up to Scm thick and up te 170cm wide. | Includes 2x paddles, 3x balls, retractable net and carry bag. | x | — | \\ ¥",
+      "ocr_confidence": 94.31,
+      "needs_review": true,
+      "review_reason": "offer_labels_missing;save_amount_missing;regular_price_missing;single_price_evidence",
+      "source_page_image": "https://caau.syd1.cdn.digitaloceanspaces.com/wp-content/uploads/catalogue/coles/coles-catalogue-best-buys-12-apr-2024/6.jpg",
+      "source_catalogue_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-best-buys-12-apr-2024/",
+      "price_source": "displayed_price",
+      "price_evidence": "displayed_price",
+      "evidence_count": 1,
+      "verification_status": "review"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "id": "20944",
+    "title": "Coles Catalogue Best Buys 5 - 11 Jan 2024",
+    "slug": "coles-catalogue-best-buys-5-jan-2024",
+    "start_date": "1704412800",
+    "end_date": "1705017599",
+    "page_count": "9",
+    "description": "Coles Catalogue Best Buys 5 - 11 Jan 2024 with home fitness products, gym towels, socks, pilates products, and more.",
+    "store_name": "Coles",
+    "store_title": "Coles Catalogue",
+    "store_slug": "coles"
+  },
+  "run": {
+    "pages_spec": "all",
+    "validation_version": 4
+  },
+  "extracted_at": "2026-09-13T10:41:28.588867+00:00",
+  "product_count": 0,
+  "products": []
+}

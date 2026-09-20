@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "id": "22219",
+    "title": "Coles Catalogue October 18 - 24, 2024 Best Buys - Arts & Crafts",
+    "slug": "coles-catalogue-october-18-24-2024-best-buys-arts-crafts",
+    "start_date": "1729224001",
+    "end_date": "1729828799",
+    "page_count": "7",
+    "description": "Check out the new deals in the Coles Catalogue effective October 18, 2024! Affordable prices on top-quality products.",
+    "store_name": "Coles",
+    "store_title": "Coles Catalogue",
+    "store_slug": "coles"
+  },
+  "run": {
+    "pages_spec": "all",
+    "validation_version": 4
+  },
+  "extracted_at": "2026-09-13T07:14:36.997912+00:00",
+  "product_count": 0,
+  "products": []
+}

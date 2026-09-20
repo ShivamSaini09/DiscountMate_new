@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "id": "22089",
+    "title": "Coles Catalogue September 27 - October 3, 2024 Best Buys - BBQ",
+    "slug": "coles-catalogue-september-27-october-3-2024-best-buys-bbq",
+    "start_date": "1727409601",
+    "end_date": "1728014399",
+    "page_count": "5",
+    "description": "Uncover the best buys in the Coles Catalogue from September 27, 2024! Shop now for major savings on daily necessities.",
+    "store_name": "Coles",
+    "store_title": "Coles Catalogue",
+    "store_slug": "coles"
+  },
+  "run": {
+    "pages_spec": "all",
+    "validation_version": 4
+  },
+  "extracted_at": "2026-09-13T07:40:23.819194+00:00",
+  "product_count": 0,
+  "products": []
+}

@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "id": "22377",
+    "title": "Coles Catalogue November 15 - 21, 2024 Best Buys - Black Friday",
+    "slug": "coles-catalogue-november-15-21-2024-best-buys-black-friday",
+    "start_date": "1731646801",
+    "end_date": "1732251599",
+    "page_count": "5",
+    "description": "Discover amazing savings in the Coles Catalogue from November 15, 2024! Shop early for the best selection.",
+    "store_name": "Coles",
+    "store_title": "Coles Catalogue",
+    "store_slug": "coles"
+  },
+  "run": {
+    "pages_spec": "all",
+    "validation_version": 4
+  },
+  "extracted_at": "2026-09-13T06:23:58.307682+00:00",
+  "product_count": 0,
+  "products": []
+}

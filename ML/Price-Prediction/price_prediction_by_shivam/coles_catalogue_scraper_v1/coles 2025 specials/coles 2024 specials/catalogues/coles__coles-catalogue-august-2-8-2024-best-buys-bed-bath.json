@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "id": "21873",
+    "title": "Coles Catalogue August 2 - 8, 2024 Best Buys - Bed & Bath",
+    "slug": "coles-catalogue-august-2-8-2024-best-buys-bed-bath",
+    "start_date": "1722571201",
+    "end_date": "1723175999",
+    "page_count": "7",
+    "description": "Hurry and grab discounts in the Coles Catalogue from August 2 - 8, 2024! Save big on your favorite items.",
+    "store_name": "Coles",
+    "store_title": "Coles Catalogue",
+    "store_slug": "coles"
+  },
+  "run": {
+    "pages_spec": "all",
+    "validation_version": 4
+  },
+  "extracted_at": "2026-09-13T08:54:13.529110+00:00",
+  "product_count": 0,
+  "products": []
+}

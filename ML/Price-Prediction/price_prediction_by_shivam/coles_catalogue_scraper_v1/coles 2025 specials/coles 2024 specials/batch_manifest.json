@@ -1,0 +1,1502 @@
+[
+  {
+    "catalogue_number": 1,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-december-31-2024-january-7-2025-nsw-metro/",
+    "status": "completed",
+    "product_count": 294,
+    "review_count": 157,
+    "trusted_count": 137,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-december-31-2024-january-7-2025-nsw-metro.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 2,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-december-25-31-2024-wa-metro/",
+    "status": "completed",
+    "product_count": 290,
+    "review_count": 148,
+    "trusted_count": 142,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-december-25-31-2024-wa-metro.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 3,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-december-25-31-2024-vic-metro/",
+    "status": "completed",
+    "product_count": 287,
+    "review_count": 147,
+    "trusted_count": 140,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-december-25-31-2024-vic-metro.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 4,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-december-25-31-2024-qld-metro/",
+    "status": "completed",
+    "product_count": 289,
+    "review_count": 148,
+    "trusted_count": 141,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-december-25-31-2024-qld-metro.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 5,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-december-24-31-2024-nsw-metro/",
+    "status": "completed",
+    "product_count": 295,
+    "review_count": 157,
+    "trusted_count": 138,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-december-24-31-2024-nsw-metro.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 6,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-december-20-26-2024-best-buys-alfresco-fun/",
+    "status": "completed",
+    "product_count": 1,
+    "review_count": 1,
+    "trusted_count": 0,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-december-20-26-2024-best-buys-alfresco-fun.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 7,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-december-18-24-2024-wa-metro/",
+    "status": "completed",
+    "product_count": 252,
+    "review_count": 146,
+    "trusted_count": 106,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-december-18-24-2024-wa-metro.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 8,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-december-18-24-2024-vic-metro/",
+    "status": "completed",
+    "product_count": 258,
+    "review_count": 150,
+    "trusted_count": 108,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-december-18-24-2024-vic-metro.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 9,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-december-18-24-2024-qld-metro/",
+    "status": "completed",
+    "product_count": 250,
+    "review_count": 151,
+    "trusted_count": 99,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-december-18-24-2024-qld-metro.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 10,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-december-17-24-2024-nsw-metro/",
+    "status": "completed",
+    "product_count": 254,
+    "review_count": 153,
+    "trusted_count": 101,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-december-17-24-2024-nsw-metro.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 11,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-december-13-19-2024-best-buys-retro-gifting/",
+    "status": "completed",
+    "product_count": 6,
+    "review_count": 6,
+    "trusted_count": 0,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-december-13-19-2024-best-buys-retro-gifting.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 12,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-december-11-17-2024-wa-metro/",
+    "status": "completed",
+    "product_count": 293,
+    "review_count": 166,
+    "trusted_count": 127,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-december-11-17-2024-wa-metro.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 13,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-december-11-17-2024-vic-metro/",
+    "status": "completed",
+    "product_count": 296,
+    "review_count": 162,
+    "trusted_count": 134,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-december-11-17-2024-vic-metro.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 14,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-december-11-17-2024-qld-metro/",
+    "status": "completed",
+    "product_count": 295,
+    "review_count": 170,
+    "trusted_count": 125,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-december-11-17-2024-qld-metro.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 15,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-december-10-17-2024-nsw-metro/",
+    "status": "completed",
+    "product_count": 291,
+    "review_count": 165,
+    "trusted_count": 126,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-december-10-17-2024-nsw-metro.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 16,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-december-6-12-2024-best-buys-kris-kringle-finds/",
+    "status": "completed",
+    "product_count": 2,
+    "review_count": 2,
+    "trusted_count": 0,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-december-6-12-2024-best-buys-kris-kringle-finds.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 17,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-november-29-december-5-2024-best-buys-christmas-entertainment/",
+    "status": "completed",
+    "product_count": 0,
+    "review_count": 0,
+    "trusted_count": 0,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-november-29-december-5-2024-best-buys-christmas-entertainment.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 18,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-december-4-10-2024-wa-metro/",
+    "status": "completed",
+    "product_count": 295,
+    "review_count": 174,
+    "trusted_count": 121,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-december-4-10-2024-wa-metro.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 19,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-december-4-10-2024-vic-metro/",
+    "status": "completed",
+    "product_count": 298,
+    "review_count": 177,
+    "trusted_count": 121,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-december-4-10-2024-vic-metro.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 20,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-december-4-10-2024-qld-metro/",
+    "status": "completed",
+    "product_count": 300,
+    "review_count": 176,
+    "trusted_count": 124,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-december-4-10-2024-qld-metro.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 21,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-november-27-december-3-2024-wa-metro/",
+    "status": "completed",
+    "product_count": 260,
+    "review_count": 145,
+    "trusted_count": 115,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-november-27-december-3-2024-wa-metro.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 22,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-november-27-december-3-2024-vic-metro/",
+    "status": "completed",
+    "product_count": 258,
+    "review_count": 146,
+    "trusted_count": 112,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-november-27-december-3-2024-vic-metro.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 23,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-november-27-december-3-2024-qld-metro/",
+    "status": "completed",
+    "product_count": 258,
+    "review_count": 144,
+    "trusted_count": 114,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-november-27-december-3-2024-qld-metro.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 24,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-november-26-december-3-2024-nsw-metro/",
+    "status": "completed",
+    "product_count": 268,
+    "review_count": 151,
+    "trusted_count": 117,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-november-26-december-3-2024-nsw-metro.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 25,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-december-3-10-2024-nsw-metro/",
+    "status": "completed",
+    "product_count": 299,
+    "review_count": 178,
+    "trusted_count": 121,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-december-3-10-2024-nsw-metro.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 26,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-november-22-28-2024-best-buys-wellness-wonders/",
+    "status": "completed",
+    "product_count": 0,
+    "review_count": 0,
+    "trusted_count": 0,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-november-22-28-2024-best-buys-wellness-wonders.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 27,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-november-20-26-2024-wa-metro/",
+    "status": "completed",
+    "product_count": 320,
+    "review_count": 178,
+    "trusted_count": 142,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-november-20-26-2024-wa-metro.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 28,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-november-20-26-2024-vic-metro/",
+    "status": "completed",
+    "product_count": 321,
+    "review_count": 178,
+    "trusted_count": 143,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-november-20-26-2024-vic-metro.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 29,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-november-20-26-2024-qld-metro/",
+    "status": "completed",
+    "product_count": 321,
+    "review_count": 176,
+    "trusted_count": 145,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-november-20-26-2024-qld-metro.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 30,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-november-19-26-2024-nsw-metro/",
+    "status": "completed",
+    "product_count": 320,
+    "review_count": 179,
+    "trusted_count": 141,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-november-19-26-2024-nsw-metro.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 31,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-november-15-21-2024-best-buys-black-friday/",
+    "status": "completed",
+    "product_count": 0,
+    "review_count": 0,
+    "trusted_count": 0,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-november-15-21-2024-best-buys-black-friday.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 32,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-november-13-19-2024-wa-metro/",
+    "status": "completed",
+    "product_count": 282,
+    "review_count": 147,
+    "trusted_count": 135,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-november-13-19-2024-wa-metro.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 33,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-november-13-19-2024-vic-metro/",
+    "status": "completed",
+    "product_count": 277,
+    "review_count": 145,
+    "trusted_count": 132,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-november-13-19-2024-vic-metro.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 34,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-november-13-19-2024-qld-metro/",
+    "status": "completed",
+    "product_count": 281,
+    "review_count": 145,
+    "trusted_count": 136,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-november-13-19-2024-qld-metro.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 35,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-november-12-19-2024-nsw-metro/",
+    "status": "completed",
+    "product_count": 281,
+    "review_count": 147,
+    "trusted_count": 134,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-november-12-19-2024-nsw-metro.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 36,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-november-8-14-2024-best-buys-home-starter/",
+    "status": "completed",
+    "product_count": 0,
+    "review_count": 0,
+    "trusted_count": 0,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-november-8-14-2024-best-buys-home-starter.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 37,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-november-6-12-2024-wa-metro/",
+    "status": "completed",
+    "product_count": 272,
+    "review_count": 149,
+    "trusted_count": 123,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-november-6-12-2024-wa-metro.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 38,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-november-6-12-2024-vic-metro/",
+    "status": "completed",
+    "product_count": 280,
+    "review_count": 150,
+    "trusted_count": 130,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-november-6-12-2024-vic-metro.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 39,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-november-6-12-2024-qld-metro/",
+    "status": "completed",
+    "product_count": 274,
+    "review_count": 149,
+    "trusted_count": 125,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-november-6-12-2024-qld-metro.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 40,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-october-30-november-5-2024-wa-metro/",
+    "status": "completed",
+    "product_count": 276,
+    "review_count": 144,
+    "trusted_count": 132,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-october-30-november-5-2024-wa-metro.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 41,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-october-30-november-5-2024-vic-metro/",
+    "status": "completed",
+    "product_count": 280,
+    "review_count": 143,
+    "trusted_count": 137,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-october-30-november-5-2024-vic-metro.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 42,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-october-30-november-5-2024-qld-metro/",
+    "status": "completed",
+    "product_count": 282,
+    "review_count": 144,
+    "trusted_count": 138,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-october-30-november-5-2024-qld-metro.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 43,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-october-29-november-5-2024-nsw-metro/",
+    "status": "completed",
+    "product_count": 282,
+    "review_count": 142,
+    "trusted_count": 140,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-october-29-november-5-2024-nsw-metro.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 44,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-november-5-12-2024-nsw-metro/",
+    "status": "completed",
+    "product_count": 272,
+    "review_count": 141,
+    "trusted_count": 131,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-november-5-12-2024-nsw-metro.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 45,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-november-1-7-2024-best-buys-camping-comforts/",
+    "status": "completed",
+    "product_count": 1,
+    "review_count": 1,
+    "trusted_count": 0,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-november-1-7-2024-best-buys-camping-comforts.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 46,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-october-25-31-2024-best-buys-kitchen-heroes/",
+    "status": "completed",
+    "product_count": 1,
+    "review_count": 1,
+    "trusted_count": 0,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-october-25-31-2024-best-buys-kitchen-heroes.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 47,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-october-23-29-2024-wa-metro/",
+    "status": "completed",
+    "product_count": 300,
+    "review_count": 170,
+    "trusted_count": 130,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-october-23-29-2024-wa-metro.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 48,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-october-23-29-2024-vic-metro/",
+    "status": "completed",
+    "product_count": 306,
+    "review_count": 172,
+    "trusted_count": 134,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-october-23-29-2024-vic-metro.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 49,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-october-23-29-2024-qld-metro/",
+    "status": "completed",
+    "product_count": 305,
+    "review_count": 176,
+    "trusted_count": 129,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-october-23-29-2024-qld-metro.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 50,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-october-22-29-2024-nsw-metro/",
+    "status": "completed",
+    "product_count": 307,
+    "review_count": 162,
+    "trusted_count": 145,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-october-22-29-2024-nsw-metro.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 51,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-october-18-24-2024-best-buys-arts-crafts/",
+    "status": "completed",
+    "product_count": 0,
+    "review_count": 0,
+    "trusted_count": 0,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-october-18-24-2024-best-buys-arts-crafts.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 52,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-october-16-22-2024-wa-metro/",
+    "status": "completed",
+    "product_count": 314,
+    "review_count": 178,
+    "trusted_count": 136,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-october-16-22-2024-wa-metro.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 53,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-october-16-22-2024-vic-metro/",
+    "status": "completed",
+    "product_count": 305,
+    "review_count": 177,
+    "trusted_count": 128,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-october-16-22-2024-vic-metro.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 54,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-october-16-22-2024-qld-metro/",
+    "status": "completed",
+    "product_count": 306,
+    "review_count": 177,
+    "trusted_count": 129,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-october-16-22-2024-qld-metro.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 55,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-october-15-22-2024-nsw-metro/",
+    "status": "completed",
+    "product_count": 304,
+    "review_count": 174,
+    "trusted_count": 130,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-october-15-22-2024-nsw-metro.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 56,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-october-11-17-2024-best-buys-love-your-pet/",
+    "status": "completed",
+    "product_count": 3,
+    "review_count": 3,
+    "trusted_count": 0,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-october-11-17-2024-best-buys-love-your-pet.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 57,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-october-9-15-2024-wa-metro/",
+    "status": "completed",
+    "product_count": 320,
+    "review_count": 196,
+    "trusted_count": 124,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-october-9-15-2024-wa-metro.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 58,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-october-9-15-2024-vic-metro/",
+    "status": "completed",
+    "product_count": 304,
+    "review_count": 187,
+    "trusted_count": 117,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-october-9-15-2024-vic-metro.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 59,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-october-9-15-2024-qld-metro/",
+    "status": "completed",
+    "product_count": 307,
+    "review_count": 186,
+    "trusted_count": 121,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-october-9-15-2024-qld-metro.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 60,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-october-8-15-2024-nsw-metro/",
+    "status": "completed",
+    "product_count": 304,
+    "review_count": 186,
+    "trusted_count": 118,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-october-8-15-2024-nsw-metro.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 61,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-october-4-10-2024-best-buys-style-your-space/",
+    "status": "completed",
+    "product_count": 1,
+    "review_count": 1,
+    "trusted_count": 0,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-october-4-10-2024-best-buys-style-your-space.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 62,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-september-27-october-3-2024-best-buys-bbq/",
+    "status": "completed",
+    "product_count": 0,
+    "review_count": 0,
+    "trusted_count": 0,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-september-27-october-3-2024-best-buys-bbq.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 63,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-october-2-8-2024-wa-metro/",
+    "status": "completed",
+    "product_count": 310,
+    "review_count": 172,
+    "trusted_count": 138,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-october-2-8-2024-wa-metro.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 64,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-october-2-8-2024-vic-metro/",
+    "status": "completed",
+    "product_count": 313,
+    "review_count": 170,
+    "trusted_count": 143,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-october-2-8-2024-vic-metro.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 65,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-october-2-8-2024-qld-metro/",
+    "status": "completed",
+    "product_count": 316,
+    "review_count": 181,
+    "trusted_count": 135,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-october-2-8-2024-qld-metro.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 66,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-september-25-october-1-2024-wa-metro/",
+    "status": "failed",
+    "product_count": 0,
+    "review_count": 0,
+    "trusted_count": 0,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-september-25-october-1-2024-wa-metro.csv",
+    "error": "Could not download https://caau.syd1.cdn.digitaloceanspaces.com/wp-content/uploads/catalogue/coles/coles-catalogue-september-25-october-1-2024-wa-metro/28.jpg: HTTP Error 403: Forbidden"
+  },
+  {
+    "catalogue_number": 67,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-september-25-october-1-2024-vic-metro/",
+    "status": "completed",
+    "product_count": 302,
+    "review_count": 169,
+    "trusted_count": 133,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-september-25-october-1-2024-vic-metro.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 68,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-september-25-october-1-2024-qld-metro/",
+    "status": "completed",
+    "product_count": 299,
+    "review_count": 171,
+    "trusted_count": 128,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-september-25-october-1-2024-qld-metro.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 69,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-september-24-october-1-2024-nsw-metro/",
+    "status": "completed",
+    "product_count": 297,
+    "review_count": 165,
+    "trusted_count": 132,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-september-24-october-1-2024-nsw-metro.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 70,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-october-1-8-2024-nsw-metro/",
+    "status": "completed",
+    "product_count": 310,
+    "review_count": 171,
+    "trusted_count": 139,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-october-1-8-2024-nsw-metro.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 71,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-september-20-26-2024-best-buys-home-entertainment/",
+    "status": "completed",
+    "product_count": 1,
+    "review_count": 1,
+    "trusted_count": 0,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-september-20-26-2024-best-buys-home-entertainment.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 72,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-september-18-24-2024-wa-metro/",
+    "status": "failed",
+    "product_count": 0,
+    "review_count": 0,
+    "trusted_count": 0,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-september-18-24-2024-wa-metro.csv",
+    "error": "Could not download https://caau.syd1.cdn.digitaloceanspaces.com/wp-content/uploads/catalogue/coles/coles-catalogue-september-18-24-2024-wa-metro/49.jpg: HTTP Error 403: Forbidden"
+  },
+  {
+    "catalogue_number": 73,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-september-18-24-2024-vic-metro/",
+    "status": "completed",
+    "product_count": 285,
+    "review_count": 157,
+    "trusted_count": 128,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-september-18-24-2024-vic-metro.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 74,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-september-18-24-2024-qld-metro/",
+    "status": "completed",
+    "product_count": 281,
+    "review_count": 151,
+    "trusted_count": 130,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-september-18-24-2024-qld-metro.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 75,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-september-17-24-2024-nsw-metro/",
+    "status": "completed",
+    "product_count": 281,
+    "review_count": 180,
+    "trusted_count": 101,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-september-17-24-2024-nsw-metro.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 76,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-september-13-19-2024-best-buys-spring-gardening/",
+    "status": "completed",
+    "product_count": 0,
+    "review_count": 0,
+    "trusted_count": 0,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-september-13-19-2024-best-buys-spring-gardening.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 77,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-september-11-17-2024-wa-metro/",
+    "status": "failed",
+    "product_count": 0,
+    "review_count": 0,
+    "trusted_count": 0,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-september-11-17-2024-wa-metro.csv",
+    "error": "Could not download https://caau.syd1.cdn.digitaloceanspaces.com/wp-content/uploads/catalogue/coles/coles-catalogue-september-11-17-2024-wa-metro/30.jpg: HTTP Error 403: Forbidden"
+  },
+  {
+    "catalogue_number": 78,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-september-11-17-2024-vic-metro/",
+    "status": "completed",
+    "product_count": 305,
+    "review_count": 160,
+    "trusted_count": 145,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-september-11-17-2024-vic-metro.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 79,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-september-11-17-2024-qld-metro/",
+    "status": "completed",
+    "product_count": 311,
+    "review_count": 171,
+    "trusted_count": 140,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-september-11-17-2024-qld-metro.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 80,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-september-10-17-2024-nsw-metro/",
+    "status": "completed",
+    "product_count": 306,
+    "review_count": 167,
+    "trusted_count": 139,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-september-10-17-2024-nsw-metro.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 81,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-september-6-12-2024-best-buys-spring-cleaning-essentials/",
+    "status": "completed",
+    "product_count": 1,
+    "review_count": 1,
+    "trusted_count": 0,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-september-6-12-2024-best-buys-spring-cleaning-essentials.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 82,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-august-30-september-5-2024-best-buys-home-organised/",
+    "status": "completed",
+    "product_count": 2,
+    "review_count": 2,
+    "trusted_count": 0,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-august-30-september-5-2024-best-buys-home-organised.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 83,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-september-3-10-2024-nsw-metro/",
+    "status": "completed",
+    "product_count": 295,
+    "review_count": 163,
+    "trusted_count": 132,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-september-3-10-2024-nsw-metro.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 84,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-august-27-september-3-2024-nsw-metro/",
+    "status": "completed",
+    "product_count": 324,
+    "review_count": 206,
+    "trusted_count": 118,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-august-27-september-3-2024-nsw-metro.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 85,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-august-23-29-2024-best-buys-fathers-day/",
+    "status": "completed",
+    "product_count": 1,
+    "review_count": 1,
+    "trusted_count": 0,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-august-23-29-2024-best-buys-fathers-day.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 86,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-august-20-27-2024-nsw-metro/",
+    "status": "completed",
+    "product_count": 281,
+    "review_count": 164,
+    "trusted_count": 117,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-august-20-27-2024-nsw-metro.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 87,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-august-16-22-2024-best-buys-home-garden/",
+    "status": "completed",
+    "product_count": 2,
+    "review_count": 2,
+    "trusted_count": 0,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-august-16-22-2024-best-buys-home-garden.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 88,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-august-13-20-2024-nsw-metro/",
+    "status": "completed",
+    "product_count": 304,
+    "review_count": 170,
+    "trusted_count": 134,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-august-13-20-2024-nsw-metro.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 89,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-august-9-15-2024-best-buys-kids-pets/",
+    "status": "completed",
+    "product_count": 1,
+    "review_count": 1,
+    "trusted_count": 0,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-august-9-15-2024-best-buys-kids-pets.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 90,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-july-30-august-6-2024-nsw-metro/",
+    "status": "completed",
+    "product_count": 304,
+    "review_count": 176,
+    "trusted_count": 128,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-july-30-august-6-2024-nsw-metro.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 91,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-august-6-13-2024-nsw-metro/",
+    "status": "completed",
+    "product_count": 307,
+    "review_count": 174,
+    "trusted_count": 133,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-august-6-13-2024-nsw-metro.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 92,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-august-2-8-2024-best-buys-bed-bath/",
+    "status": "completed",
+    "product_count": 0,
+    "review_count": 0,
+    "trusted_count": 0,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-august-2-8-2024-best-buys-bed-bath.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 93,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-july-26-august-1-2024-best-buys-crafty-creations/",
+    "status": "completed",
+    "product_count": 1,
+    "review_count": 1,
+    "trusted_count": 0,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-july-26-august-1-2024-best-buys-crafty-creations.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 94,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-july-23-30-2024-nsw-metro/",
+    "status": "completed",
+    "product_count": 308,
+    "review_count": 159,
+    "trusted_count": 149,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-july-23-30-2024-nsw-metro.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 95,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-july-19-25-2024-best-buys-kitchen-to-table/",
+    "status": "completed",
+    "product_count": 2,
+    "review_count": 2,
+    "trusted_count": 0,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-july-19-25-2024-best-buys-kitchen-to-table.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 96,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-july-16-23-2024-nsw-metro/",
+    "status": "completed",
+    "product_count": 302,
+    "review_count": 159,
+    "trusted_count": 143,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-july-16-23-2024-nsw-metro.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 97,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-july-12-18-2024-best-buys-entertainment-ready/",
+    "status": "completed",
+    "product_count": 0,
+    "review_count": 0,
+    "trusted_count": 0,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-july-12-18-2024-best-buys-entertainment-ready.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 98,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-july-9-16-2024-nsw-metro/",
+    "status": "completed",
+    "product_count": 308,
+    "review_count": 168,
+    "trusted_count": 140,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-july-9-16-2024-nsw-metro.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 99,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-july-5-11-2024-best-buys-laundry-solutions/",
+    "status": "completed",
+    "product_count": 1,
+    "review_count": 1,
+    "trusted_count": 0,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-july-5-11-2024-best-buys-laundry-solutions.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 100,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-july-2-9-2024-nsw-metro/",
+    "status": "completed",
+    "product_count": 285,
+    "review_count": 153,
+    "trusted_count": 132,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-july-2-9-2024-nsw-metro.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 101,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-best-buys-28-jun-2024/",
+    "status": "completed",
+    "product_count": 2,
+    "review_count": 2,
+    "trusted_count": 0,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-best-buys-28-jun-2024.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 102,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-26-jun-2024/",
+    "status": "completed",
+    "product_count": 284,
+    "review_count": 190,
+    "trusted_count": 94,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-26-jun-2024.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 103,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-best-buys-21-jun-2024/",
+    "status": "completed",
+    "product_count": 3,
+    "review_count": 3,
+    "trusted_count": 0,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-best-buys-21-jun-2024.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 104,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-19-jun-2024/",
+    "status": "completed",
+    "product_count": 287,
+    "review_count": 193,
+    "trusted_count": 94,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-19-jun-2024.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 105,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-12-jun-2024/",
+    "status": "completed",
+    "product_count": 276,
+    "review_count": 188,
+    "trusted_count": 88,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-12-jun-2024.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 106,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-best-buys-7-jun-2024/",
+    "status": "completed",
+    "product_count": 3,
+    "review_count": 3,
+    "trusted_count": 0,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-best-buys-7-jun-2024.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 107,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-5-jun-2024/",
+    "status": "completed",
+    "product_count": 277,
+    "review_count": 185,
+    "trusted_count": 92,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-5-jun-2024.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 108,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-29-may-2024/",
+    "status": "completed",
+    "product_count": 274,
+    "review_count": 185,
+    "trusted_count": 89,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-29-may-2024.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 109,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-best-buys-24-may-2024/",
+    "status": "completed",
+    "product_count": 0,
+    "review_count": 0,
+    "trusted_count": 0,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-best-buys-24-may-2024.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 110,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-22-may-2024/",
+    "status": "completed",
+    "product_count": 253,
+    "review_count": 165,
+    "trusted_count": 88,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-22-may-2024.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 111,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-best-buys-17-may-2024/",
+    "status": "completed",
+    "product_count": 0,
+    "review_count": 0,
+    "trusted_count": 0,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-best-buys-17-may-2024.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 112,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-15-may-2024/",
+    "status": "completed",
+    "product_count": 280,
+    "review_count": 190,
+    "trusted_count": 90,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-15-may-2024.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 113,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-8-may-2024/",
+    "status": "completed",
+    "product_count": 289,
+    "review_count": 192,
+    "trusted_count": 97,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-8-may-2024.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 114,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-best-buys-3-may-2024/",
+    "status": "completed",
+    "product_count": 2,
+    "review_count": 2,
+    "trusted_count": 0,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-best-buys-3-may-2024.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 115,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-1-may-2024/",
+    "status": "completed",
+    "product_count": 299,
+    "review_count": 176,
+    "trusted_count": 123,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-1-may-2024.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 116,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-best-buys-26-apr-2024/",
+    "status": "completed",
+    "product_count": 0,
+    "review_count": 0,
+    "trusted_count": 0,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-best-buys-26-apr-2024.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 117,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-24-apr-2024/",
+    "status": "completed",
+    "product_count": 271,
+    "review_count": 179,
+    "trusted_count": 92,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-24-apr-2024.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 118,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-best-buys-19-apr-2024/",
+    "status": "completed",
+    "product_count": 0,
+    "review_count": 0,
+    "trusted_count": 0,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-best-buys-19-apr-2024.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 119,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-17-apr-2024/",
+    "status": "completed",
+    "product_count": 240,
+    "review_count": 154,
+    "trusted_count": 86,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-17-apr-2024.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 120,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-best-buys-12-apr-2024/",
+    "status": "completed",
+    "product_count": 1,
+    "review_count": 1,
+    "trusted_count": 0,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-best-buys-12-apr-2024.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 121,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-10-apr-2024/",
+    "status": "completed",
+    "product_count": 315,
+    "review_count": 193,
+    "trusted_count": 122,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-10-apr-2024.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 122,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-best-buys-5-apr-2024/",
+    "status": "completed",
+    "product_count": 1,
+    "review_count": 1,
+    "trusted_count": 0,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-best-buys-5-apr-2024.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 123,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-3-apr-2024/",
+    "status": "completed",
+    "product_count": 277,
+    "review_count": 165,
+    "trusted_count": 112,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-3-apr-2024.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 124,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-easter-29-mar-2024/",
+    "status": "completed",
+    "product_count": 1,
+    "review_count": 1,
+    "trusted_count": 0,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-easter-29-mar-2024.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 125,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-27-mar-2024/",
+    "status": "completed",
+    "product_count": 331,
+    "review_count": 200,
+    "trusted_count": 131,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-27-mar-2024.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 126,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-best-buys-22-mar-2024/",
+    "status": "completed",
+    "product_count": 2,
+    "review_count": 2,
+    "trusted_count": 0,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-best-buys-22-mar-2024.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 127,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-20-mar-2024/",
+    "status": "completed",
+    "product_count": 286,
+    "review_count": 169,
+    "trusted_count": 117,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-20-mar-2024.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 128,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-best-buys-15-mar-2024/",
+    "status": "completed",
+    "product_count": 4,
+    "review_count": 4,
+    "trusted_count": 0,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-best-buys-15-mar-2024.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 129,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-sale-nsw-13-mar-2024/",
+    "status": "completed",
+    "product_count": 264,
+    "review_count": 256,
+    "trusted_count": 8,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-sale-nsw-13-mar-2024.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 130,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-13-mar-2024/",
+    "status": "completed",
+    "product_count": 293,
+    "review_count": 156,
+    "trusted_count": 137,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-13-mar-2024.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 131,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-8-mar-2024/",
+    "status": "completed",
+    "product_count": 1,
+    "review_count": 1,
+    "trusted_count": 0,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-8-mar-2024.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 132,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-6-mar-2024/",
+    "status": "completed",
+    "product_count": 348,
+    "review_count": 184,
+    "trusted_count": 164,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-6-mar-2024.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 133,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-best-buys-1-mar-2024/",
+    "status": "completed",
+    "product_count": 2,
+    "review_count": 2,
+    "trusted_count": 0,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-best-buys-1-mar-2024.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 134,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-28-feb-2024/",
+    "status": "completed",
+    "product_count": 263,
+    "review_count": 153,
+    "trusted_count": 110,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-28-feb-2024.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 135,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-best-buy-23-feb-2024/",
+    "status": "completed",
+    "product_count": 0,
+    "review_count": 0,
+    "trusted_count": 0,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-best-buy-23-feb-2024.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 136,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-21-feb-2024/",
+    "status": "completed",
+    "product_count": 293,
+    "review_count": 170,
+    "trusted_count": 123,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-21-feb-2024.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 137,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-best-buy-16-feb-2024/",
+    "status": "completed",
+    "product_count": 2,
+    "review_count": 2,
+    "trusted_count": 0,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-best-buy-16-feb-2024.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 138,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-14-feb-2024/",
+    "status": "completed",
+    "product_count": 274,
+    "review_count": 151,
+    "trusted_count": 123,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-14-feb-2024.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 139,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-best-buy-catalogue-9-feb-2024/",
+    "status": "completed",
+    "product_count": 1,
+    "review_count": 1,
+    "trusted_count": 0,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-best-buy-catalogue-9-feb-2024.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 140,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-7-feb-2024/",
+    "status": "completed",
+    "product_count": 312,
+    "review_count": 191,
+    "trusted_count": 121,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-7-feb-2024.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 141,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-best-buys-2-feb-2024/",
+    "status": "completed",
+    "product_count": 0,
+    "review_count": 0,
+    "trusted_count": 0,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-best-buys-2-feb-2024.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 142,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-31-jan-2024/",
+    "status": "failed",
+    "product_count": 0,
+    "review_count": 0,
+    "trusted_count": 0,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-31-jan-2024.csv",
+    "error": "Could not download https://caau.syd1.cdn.digitaloceanspaces.com/wp-content/uploads/catalogue/coles/coles-catalogue-31-jan-2024/49.jpg: HTTP Error 403: Forbidden"
+  },
+  {
+    "catalogue_number": 143,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-best-buys-26-jan-2024/",
+    "status": "completed",
+    "product_count": 0,
+    "review_count": 0,
+    "trusted_count": 0,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-best-buys-26-jan-2024.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 144,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-24-jan-2024/",
+    "status": "failed",
+    "product_count": 0,
+    "review_count": 0,
+    "trusted_count": 0,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-24-jan-2024.csv",
+    "error": "Could not download https://caau.syd1.cdn.digitaloceanspaces.com/wp-content/uploads/catalogue/coles/coles-catalogue-24-jan-2024/47.jpg: HTTP Error 403: Forbidden"
+  },
+  {
+    "catalogue_number": 145,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-best-buys-19-jan-2024/",
+    "status": "completed",
+    "product_count": 0,
+    "review_count": 0,
+    "trusted_count": 0,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-best-buys-19-jan-2024.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 146,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-17-jan-2024/",
+    "status": "completed",
+    "product_count": 286,
+    "review_count": 182,
+    "trusted_count": 104,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-17-jan-2024.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 147,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-best-buy-summer-jan-2024/",
+    "status": "completed",
+    "product_count": 0,
+    "review_count": 0,
+    "trusted_count": 0,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-best-buy-summer-jan-2024.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 148,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-10-jan-2024/",
+    "status": "completed",
+    "product_count": 291,
+    "review_count": 201,
+    "trusted_count": 90,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-10-jan-2024.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 149,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-best-buys-5-jan-2024/",
+    "status": "completed",
+    "product_count": 0,
+    "review_count": 0,
+    "trusted_count": 0,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-best-buys-5-jan-2024.csv",
+    "error": ""
+  },
+  {
+    "catalogue_number": 150,
+    "viewer_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-3-jan-2024/",
+    "status": "completed",
+    "product_count": 300,
+    "review_count": 192,
+    "trusted_count": 108,
+    "output_csv": "coles 2024 specials/catalogues/coles__coles-catalogue-3-jan-2024.csv",
+    "error": ""
+  }
+]

@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "id": "21995",
+    "title": "Coles Catalogue September 6 - 12, 2024 Best Buys - Spring Cleaning Essentials",
+    "slug": "coles-catalogue-september-6-12-2024-best-buys-spring-cleaning-essentials",
+    "start_date": "1725595201",
+    "end_date": "1726199999",
+    "page_count": "6",
+    "description": "Seize the savings with Coles Catalogue starting September 6, 2024! Essential deals at not-to-miss prices.",
+    "store_name": "Coles",
+    "store_title": "Coles Catalogue",
+    "store_slug": "coles"
+  },
+  "run": {
+    "pages_spec": "all",
+    "validation_version": 4
+  },
+  "extracted_at": "2026-09-13T08:32:48.178518+00:00",
+  "product_count": 1,
+  "products": [
+    {
+      "retailer": "Coles",
+      "region": "",
+      "catalogue_title": "Coles Catalogue September 6 - 12, 2024 Best Buys - Spring Cleaning Essentials",
+      "catalogue_start_date": "2024-09-06",
+      "catalogue_end_date": "2024-09-13",
+      "page_number": 2,
+      "product_name": "Dual tanks Seperate clean",
+      "special_price": 10.0,
+      "regular_price": null,
+      "save_amount": null,
+      "discount_percent": null,
+      "promo_type": "special",
+      "pack_size": "",
+      "unit_price_text": "",
+      "offer_text": "Dual tanks | Seperate clean | & dirty water | Sc | Sra N | >».",
+      "ocr_confidence": 95.15,
+      "needs_review": true,
+      "review_reason": "offer_labels_missing;save_amount_missing;regular_price_missing;single_price_evidence",
+      "source_page_image": "https://caau.syd1.cdn.digitaloceanspaces.com/wp-content/uploads/catalogue/coles/coles-catalogue-september-6-12-2024-best-buys-spring-cleaning-essentials/2.jpg",
+      "source_catalogue_url": "https://www.catalogueau.com/coles/#catalogue=coles/coles-catalogue-september-6-12-2024-best-buys-spring-cleaning-essentials/",
+      "price_source": "displayed_price",
+      "price_evidence": "displayed_price",
+      "evidence_count": 1,
+      "verification_status": "review"
+    }
+  ]
+}
